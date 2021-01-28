@@ -1,0 +1,14 @@
+2021/01/23-16:46:37.779 2a69 Reusing MANIFEST /home/rgregor/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/23-16:46:37.779 2a69 Recovering log #158
+2021/01/23-16:46:37.779 2a69 Reusing old log /home/rgregor/.config/Popcorn-Time/Default/IndexedDB/chrome-extension_hecfofbbdfadifpemejbbdcjmfmboohj_0.indexeddb.leveldb/000158.log 
+2021/01/23-16:46:37.779 2a69 Delete type=2 #156
+2021/01/23-16:58:45.717 2e4f Level-0 table #163: started
+2021/01/23-16:58:45.720 2e4f Level-0 table #163: 1086 bytes OK
+2021/01/23-16:58:45.728 2e4f Delete type=0 #158
+2021/01/23-16:58:45.728 2e4f Manual compaction at level-0 from '\x00)\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00*\x00\x00\x00' @ 0 : 0; will stop at '\x00)\x00\x00\xc8\x08\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 2580 : 1
+2021/01/23-16:58:45.728 2e4f Compacting 1@0 + 1@1 files
+2021/01/23-16:58:45.730 2e4f Generated table #164@0: 20 keys, 634 bytes
+2021/01/23-16:58:45.730 2e4f Compacted 1@0 + 1@1 files => 634 bytes
+2021/01/23-16:58:45.733 2e4f compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/23-16:58:45.734 2e4f Delete type=2 #163
+2021/01/23-16:58:45.735 2e4f Manual compaction at level-0 from '\x00)\x00\x00\xc8\x08\x00m\x00e\x00t\x00a\x00d\x00a\x00t\x00a' @ 2580 : 1 .. '\x00*\x00\x00\x00' @ 0 : 0; will stop at (end)

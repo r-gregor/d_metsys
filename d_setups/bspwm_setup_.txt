@@ -1,0 +1,8 @@
+./history-d_202010150741.txt:  840  2020-10-12 18:05:42 sudo apt install bspwm sxhkd
+./history-d_202010150741.txt:  841  2020-10-12 18:06:24 mkdir .config/{bspwm,sxhkd}
+./history-d_202010150741.txt:  842  2020-10-12 18:06:57 cp /usr/share/doc/bspwm/examples/bspwmrc .config/bspwm/
+./history-d_202010150741.txt:  843  2020-10-12 18:07:26 cp /usr/share/doc/bspwm/examples/sxhkdrc .config/sxhkd/
+./history-d_202010150741.txt:  844  2020-10-12 18:07:48 sudo chmod 755 .config/bspwm/bspwmrc 
+./history-d_202010150741.txt:  846  2020-10-12 18:08:09 nano .config/bspwm/bspwmrc 
+./history-d_202010150741.txt:  862  2020-10-12 18:30:36 nano .config/bspwm/bspwmrc 
+

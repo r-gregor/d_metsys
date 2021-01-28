@@ -1,0 +1,277 @@
+### Functions ###
+
+# fukcija, pajpne ukaz na "less -I"
+
+so () {
+eval "$@" | less -I~
+}
+
+# --------------------------------------------------------
+
+cv () {
+cdargs "$1" && cd "$(cat "$HOME/.cdargsresult")" ;
+
+}
+
+# --------------------------------------------------------
+
+# funkcija, ki pred ukazom sprazni (clear) ekran
+
+kl () {
+clear && eval "$@"
+}
+
+# --------------------------------------------------------
+
+# history list
+
+export HISTCONTROL=erasedups
+
+hf () {
+clear
+if [ $# != 1 ]; then
+    echo 'Number of argumets to function "hf" must be exactly 1 [one]!'
+else
+    history | grep "$1"
+fi
+}
+
+# himp () {
+#     history > ~/bin/hlist.txt
+# }
+
+# --------------------------------------------------------
+
+lsl ()	{
+	for file in *
+	do
+  		if [ -h $file ]; then
+    			# echo $file
+    			ls -got $file
+		fi
+	done
+}
+
+# --------------------------------------------------------
+
+bbb () {
+clear
+source $HOME/.bashrc
+echo "*************************"
+echo "* Use the source Luke!! *"
+echo "*************************"
+echo "The \"$HOME/.bashrc\" has just been sourced!!"
+echo
+}
+
+# --------------------------------------------------------
+
+mmm () {
+clear
+source $HOME/.bashrc_monochrome
+echo "*************************"
+echo "* Use the source Luke!! *"
+echo "*************************"
+echo "The \"$HOME/.bashrc_monochrome\" has just been sourced!!"
+echo
+}
+
+# --------------------------------------------------------
+
+
+# --------------------------------------------------------
+
+aln () {
+clear
+eval "$@"
+echo -e "\n"
+}
+
+# --------------------------------------------------------
+
+crtice () {
+	printf "%$(tput cols)s\n" | tr " "  "-"
+}
+
+# --------------------------------------------------------
+
+# function that displays varius date & time formated info
+
+zdaj () {
+	# clear the sreen
+	clear
+	zdSI=$(date +%A,\ %d.\ %B\ %Y,\ %H:%M:%S)
+	echo -n "${zdSI}"
+	echo -e "\n"
+
+}
+
+# --------------------------------------------------------
+
+function dejt() {
+dejt=$(date +%Y%m%d%H%M)
+echo $dejt
+}
+
+# --------------------------------------------------------
+### dropvox functions 20160514
+
+function db0() {
+	dropbox stop
+}
+
+
+function db1() {
+	# dropbox start
+	dbus-launch dropbox start -i
+}
+
+
+function dbs() {
+	watch -n1 'dropbox status'
+}
+
+function dbs1() {
+	dropbox status
+}
+
+function dbs2() {
+  clear
+  while true; do
+    echo -en "$(dropbox status) \r"
+    sleep 1
+  done
+}
+# --------------------------------------------------------
+
+
+### added 20160526
+### function skrn that starts new terminal (xfce4-terminal) window with screen
+### session divided into multiple windows ...
+
+
+function skrn() {
+
+gr_FJL="~/.screen-lyt"
+if [ $1 -eq 0 ] || [ $1 -eq 1 ] || [ $1 -eq 2 ] || [ $1 -eq 3 ]; then
+	gr_PRM=$1
+	xfce4-terminal -e "screen -c ${gr_FJL}-0${gr_PRM}" & 2>/dev/null
+
+elif [ $1 == "db" ]; then
+	xfce4-terminal -e "screen -c ${gr_FJL}-db" & 2>/dev/null
+
+else
+	gr_PRM="0"
+	xfce4-terminal -e "screen -c ${gr_FJL}-0${gr_PRM}" & 2>/dev/null
+fi
+
+}
+
+### --------------------------------------------------------------------
+
+### added 20161111
+### after installed sshfs ...
+
+
+# function pim_on() -- sshfs KODI:Videos to /home/rgregor/KRZ_Movies
+function pim_on() {
+	sshfs -o idmap=user root@192.168.64.32:/var/media/MEDION_sA/Movies /home/rgregor/KRZ_Movies
+	if [ $? -eq 0 ]; then
+		echo "KODI sucessfully conected to /home/rgregor/KRZ_Movies"
+	else
+		echo "Something went wrong ..."
+	fi
+}
+
+
+# function pim_of() -- kill sshfs /home/rgregor/KRZ_Movies
+function pim_of() {
+	fusermount -u /home/rgregor/KRZ_Movies
+	echo "/home/rgregor/KRZ_Movies disconected."
+}
+
+### added 20170514
+### pim -> Movies, pit -> TV Shows, piv -> Videos
+#
+#
+
+# function pit_on() -- sshfs KODI:TV Shows to /home/rgregor/KRZ_TV_shows
+function pit_on() {
+	sshfs -o idmap=user root@192.168.64.32:/var/media/MEDION_sA/TV\ Shows /home/rgregor/KRZ_TV_shows
+	if [ $? -eq 0 ]; then
+		echo "KODI sucessfully conected to /home/rgregor/KRZ_TV_shows"
+	else
+		echo "Something went wrong ..."
+	fi
+}
+
+
+# function pit_of() -- kill sshfs /home/rgregor/KRZ_TV_shows
+function pit_of() {
+	fusermount -u /home/rgregor/KRZ_TV_shows
+	echo "/home/rgregor/KRZ_TV_shows disconected."
+}
+
+
+################################################################################
+# function piv_on() -- sshfs KODI:Videos to /home/rgregor/KRZ_Videos
+function piv_on() {
+	sshfs -o idmap=user root@192.168.64.32:/var/media/MEDION_sA/Videos /home/rgregor/KRZ_Videos
+	if [ $? -eq 0 ]; then
+		echo "KODI sucessfully conected to /home/rgregor/KRZ_Videos"
+	else
+		echo "Something went wrong ..."
+	fi
+}
+
+
+# function piv_of() -- kill sshfs /home/rgregor/KRZ_Videos
+function piv_of() {
+	fusermount -u /home/rgregor/KRZ_Videos
+	echo "/home/rgregor/KRZ_Videos disconected."
+}
+################################################################################
+
+### --------------------------------------------------------------------
+### 20170119
+#
+function cnks() {
+conky &
+# exit 0
+clear
+}
+
+function cnkk() {
+sudo pkill conky
+}
+
+function cml() {
+	clear
+	cat $HOME/majstaf/forallusers/commands-list.txt
+}
+
+
+### --------------------------------------------------------------------
+### 20171101
+function wtmpp () {
+    watch -d -n1 "du $TMPP"
+}
+
+
+### --------------------------------------------------------------------
+### 20180228
+
+function tmxs () {
+	# tmux -f ~/.mytmuxconf_V3 attach
+	tmux -f ~/.mytmuxconf_V4 attach
+}
+
+function tmxdb () {
+	tmux -f ~/.tmxdb_1 attach
+}
+
+### 20180302
+function 256_colors () {
+
+    for i in {0..255}; do printf "\x1b[38;5;${i}mcolor%-5i\x1b[0m" $i ; if ! (( ($i + 1 ) % 8 )); then echo ; fi ; done
+}

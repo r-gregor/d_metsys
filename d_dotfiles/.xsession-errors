@@ -1,0 +1,75 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/rgregor/.Xauthority
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting CLUTTER_BACKEND=x11
+dbus-update-activation-environment: setting LANGUAGE=en_US
+dbus-update-activation-environment: setting MANDATORY_PATH=/usr/share/gconf/xubuntu.mandatory.path
+dbus-update-activation-environment: setting LC_ADDRESS=sl_SI.UTF-8
+dbus-update-activation-environment: setting LC_NAME=sl_SI.UTF-8
+dbus-update-activation-environment: setting DESKTOP_SESSION=xubuntu
+dbus-update-activation-environment: setting LC_MONETARY=sl_SI.UTF-8
+dbus-update-activation-environment: setting PWD=/home/rgregor
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=xubuntu
+dbus-update-activation-environment: setting LOGNAME=rgregor
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=gtk2
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/rgregor/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/rgregor
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting HOME=/home/rgregor
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=sl_SI.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=XFCE
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=sl_SI.UTF-8
+dbus-update-activation-environment: setting GTK_OVERLAY_SCROLLING=0
+dbus-update-activation-environment: setting DEFAULTS_PATH=/usr/share/gconf/xubuntu.default.path
+dbus-update-activation-environment: setting USER=rgregor
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=sl_SI.UTF-8
+dbus-update-activation-environment: setting LC_MEASUREMENT=sl_SI.UTF-8
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LC_TIME=sl_SI.UTF-8
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=xubuntu
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=sl_SI.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+
+(xfce4-session:1340): xfce4-session-WARNING **: 20:06:26.307: xfsm_manager_load_session: Something wrong with /home/rgregor/.cache/sessions/xfce4-session-jbez0rg:0, Does it exist? Permissions issue?
+xfwm4-Message: 20:06:26.565: Prefer XPresent with Mesa DRI Intel(R) HD Graphics 3000 (SNB GT2)
+
+** (wrapper-2.0:1525): WARNING **: 20:06:27.220: No outputs have backlight property
+
+(wrapper-2.0:1518): Gtk-WARNING **: 20:06:27.245: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:1520): GLib-GIO-CRITICAL **: 20:06:27.272: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:1520): GLib-GIO-CRITICAL **: 20:06:27.273: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:1520): GLib-GObject-WARNING **: 20:06:27.273: invalid (NULL) pointer instance
+
+(wrapper-2.0:1520): GLib-GObject-CRITICAL **: 20:06:27.273: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:1520): Gtk-WARNING **: 20:06:27.273: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+(wrapper-2.0:1520): Gtk-WARNING **: 20:06:27.341: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:1525): Gtk-WARNING **: 20:06:27.401: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PowerManagerButton)
+
+(wrapper-2.0:1528): Gtk-WARNING **: 20:06:27.417: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PulseaudioButton)
+
+(polkit-gnome-authentication-agent-1:1578): GLib-CRITICAL **: 20:06:27.672: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:1578): polkit-gnome-1-WARNING **: 20:06:27.672: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files

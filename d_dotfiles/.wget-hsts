@@ -1,0 +1,5 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+st.suckless.org	0	1	1607546413	31536000
+zoom.us	0	1	1607770978	31536000

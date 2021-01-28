@@ -1,0 +1,1 @@
+cd /home && sudo rsync -avh --progress --exclude-from '/home/SLIKE/ne-bekapiraj.txt' /home/rgregor/ /media/rgregor/eb8aea4b-d092-4b4e-9b83-f6b48ccc170e/backup-home-lnxrgregor_20150602/home/rgregor/

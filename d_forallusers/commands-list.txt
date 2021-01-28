@@ -1,0 +1,35 @@
+------------------------------------------------------------------------
+Aliases --
+bat-stat:	upower -i /org/freedesktop/UPower/devices/battery_BAT0
+bcs:		cat /home/gredelonghi/docs/bash-shortcuts.chtsht
+dbo[t,p]	cd /home/rgregor/Dropbox/ODPRTO/[_TXT,_PYTHON]
+dcm:		doublecmd &
+sag:		sudo apt-get upgrade
+sau:		sudo apt-get update
+sbr:		source ~/.bashrc
+w_s:		watch -n1 sensors
+crlw:		curl display CLI weather -- Ljubljana
+wdf:		watch df with changes  sec interval
+------------------------------------------------------------------------
+Functions --
+pim_[on,of]:	sshfs mount KODI:Videos to /home/rgregor/KRZ_Movies -- ON, OFF
+pit_[on,of]:	sshfs mount KODI:TV Shows to /home/rgregor/KRZ_TV-shows -- ON, OFF
+db[0,1,s]	dropbox -- STOP, START, STATUS
+cnk[s,k]:	conky -- START, STOP
+cv:		cdargs
+nifs:		set IFS to newline '\n'
+oifs:		set IFS to orginal ' \t\n'
+skrn [#]:	term-win - screen split
+skrn db:	term-win - screen split - Dropbox
+wtmpp:		watch changes to $TMPP
+cml:		display this list (/home/forallusers/commands-list.txt)
+------------------------------------------------------------------------
+Scripts --
+kodi1:		ssh to [ ... ]@KODI
+------------------------------------------------------------------------
+
+ ##########################################
+ # COOL new commands:                     #
+ # 1 - ncdu - ncurses disk usage          #
+ #                                        #
+ ##########################################

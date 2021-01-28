@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="panels" type="uint" value="1">
+    <property name="panel-0" type="empty">
+      <property name="position" type="string" value="p=6;x=0;y=0"/>
+      <property name="length" type="uint" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="1"/>
+        <value type="int" value="2"/>
+        <value type="int" value="3"/>
+        <value type="int" value="4"/>
+        <value type="int" value="5"/>
+        <value type="int" value="6"/>
+        <value type="int" value="7"/>
+        <value type="int" value="8"/>
+        <value type="int" value="9"/>
+        <value type="int" value="10"/>
+        <value type="int" value="11"/>
+        <value type="int" value="12"/>
+      </property>
+      <property name="background-style" type="uint" value="0"/>
+      <property name="size" type="uint" value="24"/>
+      <property name="length-adjust" type="bool" value="true"/>
+      <property name="span-monitors" type="bool" value="false"/>
+      <property name="mode" type="uint" value="0"/>
+      <property name="autohide-behavior" type="uint" value="0"/>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-1" type="string" value="whiskermenu"/>
+    <property name="plugin-2" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+      <property name="expand" type="bool" value="false"/>
+    </property>
+    <property name="plugin-3" type="string" value="tasklist">
+      <property name="show-handle" type="bool" value="false"/>
+      <property name="flat-buttons" type="bool" value="true"/>
+    </property>
+    <property name="plugin-4" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+      <property name="expand" type="bool" value="true"/>
+    </property>
+    <property name="plugin-5" type="string" value="systray">
+      <property name="show-frame" type="bool" value="false"/>
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="size-max" type="uint" value="22"/>
+      <property name="names-ordered" type="array">
+        <value type="string" value="thunar"/>
+        <value type="string" value="system-config-printer"/>
+        <value type="string" value="xfce4-power-manager"/>
+      </property>
+    </property>
+    <property name="plugin-6" type="string" value="notification-plugin"/>
+    <property name="plugin-7" type="string" value="indicator">
+      <property name="blacklist" type="array">
+        <value type="string" value="libappmenu.so"/>
+      </property>
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="known-indicators" type="array">
+        <value type="string" value="com.canonical.indicator.messages"/>
+      </property>
+    </property>
+    <property name="plugin-8" type="string" value="statusnotifier">
+      <property name="icon-size" type="uint" value="22"/>
+      <property name="menu-is-primary" type="bool" value="true"/>
+      <property name="mode-whitelist" type="bool" value="false"/>
+      <property name="single-row" type="bool" value="false"/>
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="symbolic-icons" type="bool" value="true"/>
+      <property name="known-items" type="array">
+        <value type="string" value="dropbox-client-17200"/>
+        <value type="string" value="dropbox-client-2988"/>
+        <value type="string" value="dropbox-client-8443"/>
+        <value type="string" value="dropbox-client-18744"/>
+        <value type="string" value="dropbox-client-1733"/>
+        <value type="string" value="dropbox-client-2012"/>
+        <value type="string" value="dropbox-client-1766"/>
+        <value type="string" value="software-update-available"/>
+        <value type="string" value="dropbox-client-4438"/>
+        <value type="string" value="dropbox-client-2690"/>
+        <value type="string" value="dropbox-client-1809"/>
+        <value type="string" value="dropbox-client-6691"/>
+        <value type="string" value="dropbox-client-3197"/>
+        <value type="string" value="dropbox-client-4507"/>
+        <value type="string" value="dropbox-client-2788"/>
+        <value type="string" value="dropbox-client-3815"/>
+        <value type="string" value="dropbox-client-4420"/>
+        <value type="string" value="dropbox-client-2709"/>
+        <value type="string" value="dropbox-client-6539"/>
+        <value type="string" value="dropbox-client-5275"/>
+        <value type="string" value="dropbox-client-38395"/>
+        <value type="string" value="dropbox-client-2964"/>
+        <value type="string" value="dropbox-client-4361"/>
+        <value type="string" value="dropbox-client-7229"/>
+        <value type="string" value="dropbox-client-2540"/>
+        <value type="string" value="dropbox-client-2303"/>
+        <value type="string" value="dropbox-client-1939"/>
+        <value type="string" value="dropbox-client-117280"/>
+        <value type="string" value="dropbox-client-3296"/>
+        <value type="string" value="dropbox-client-2828"/>
+        <value type="string" value="dropbox-client-2713"/>
+        <value type="string" value="dropbox-client-2319"/>
+        <value type="string" value="dropbox-client-6289"/>
+        <value type="string" value="dropbox-client-2975"/>
+        <value type="string" value="zoom"/>
+        <value type="string" value="dropbox-client-12007"/>
+        <value type="string" value="dropbox-client-2105"/>
+        <value type="string" value="dropbox-client-21840"/>
+        <value type="string" value="dropbox-client-1435"/>
+        <value type="string" value="dropbox-client-1431"/>
+        <value type="string" value="dropbox-client-1602"/>
+        <value type="string" value="dropbox-client-1280"/>
+        <value type="string" value="vlc"/>
+        <value type="string" value="dropbox-client-1286"/>
+        <value type="string" value="dropbox-client-4721"/>
+        <value type="string" value="blueman"/>
+        <value type="string" value="nm-applet"/>
+      </property>
+    </property>
+    <property name="plugin-9" type="string" value="power-manager-plugin"/>
+    <property name="plugin-10" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="enable-mpris" type="bool" value="true"/>
+      <property name="mixer-command" type="string" value="pavucontrol"/>
+      <property name="mpris-players" type="string" value="chromium.instance10355;chromium.instance10842;chromium.instance11113;chromium.instance122600;chromium.instance12625;chromium.instance13479;chromium.instance13772;chromium.instance16839;chromium.instance2096;chromium.instance21259;chromium.instance2227;chromium.instance2231;chromium.instance2275;chromium.instance23542;chromium.instance23772;chromium.instance2514;chromium.instance2760;chromium.instance2819;chromium.instance2996;chromium.instance3173;chromium.instance3175;chromium.instance3506;chromium.instance3583;chromium.instance46380;chromium.instance47425;chromium.instance48041;chromium.instance4807;chromium.instance48568;chromium.instance4872;chromium.instance49257;chromium.instance5088;chromium.instance53700;chromium.instance5411;chromium.instance5443;chromium.instance55873;chromium.instance57675;chromium.instance6019;chromium.instance6046;chromium.instance65784;chromium.instance7745;chromium.instance8513;chromium.instance8605;chromium.instance8949;firefox.instance10501;firefox.instance14671;firefox.instance16284;firefox.instance1687;firefox.instance17166;firefox.instance1738;firefox.instance1739;firefox.instance1743;firefox.instance1759;firefox.instance1785;firefox.instance1813;firefox.instance1815;firefox.instance1843;firefox.instance2162;firefox.instance2185;firefox.instance2243;firefox.instance2310;firefox.instance25108;firefox.instance26294;firefox.instance2862;firefox.instance3108;firefox.instance3160;firefox.instance4221;firefox.instance4332;firefox.instance4373;firefox.instance4500;firefox.instance4550;firefox.instance4786;firefox.instance5686;firefox.instance5708;firefox.instance6711;firefox.instance7243;firefox.instance8589;firefox.instance9149;firefox.instance9267;firefox.instance9929;firefox.instance9965;parole;vlc;vlc.instance10170;vlc.instance12600;vlc.instance12635;vlc.instance12744;vlc.instance9757"/>
+      <property name="show-notifications" type="bool" value="true"/>
+    </property>
+    <property name="plugin-11" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+      <property name="expand" type="bool" value="false"/>
+    </property>
+    <property name="plugin-12" type="string" value="clock">
+      <property name="digital-format" type="string" value="%d %b, %H:%M"/>
+    </property>
+  </property>
+  <property name="configver" type="int" value="2"/>
+</channel>

@@ -1,0 +1,145 @@
+# --------------------------------------------------------
+# ALIASES:
+
+unalias -a
+
+alias go='source /home/gredelonghi/bin/gooo.sh'
+
+alias ls='ls --group-directories-first'
+alias L='ls -F'
+alias lss='L --color=always'
+alias lss='L --color=always'
+alias l1='ls -1F --color'
+alias ll='ls -lF --time-style=long-iso'
+alias llc='lss -lF --time-style=long-iso'
+alias la='ll -A --time-style=long-iso'
+alias lac='lss -AlF --time-style=long-iso'
+alias lo='ls -gotrF'
+alias lld='ls -l --time-style=long-iso | grep ^d'
+alias lsd='ls -d */'
+alias cl='clear'
+alias cls='clear'
+alias cp='cp -n'
+alias grep='GREP_COLOR="1;31" LANG=C grep --color=auto'
+
+alias bcs='cat /home/gredelonghi/docs/bash-shortcuts.chtsht'
+alias ddir='bash /home/gredelonghi/docs/print-only-subdirectories.txt'
+alias hst='history'
+alias xx='logout'
+alias opnu='source /home/gredelonghi/bin/opn.u.sh'
+alias opnw='source /home/gredelonghi/bin/opn.w.sh'
+
+# --------------------------------------------------------
+
+alias godos='source $HOME/bin/godossrc.sh'
+
+# --------------------------------------------------------
+
+alias ydbak='yes | ddbak'
+alias ydlog='yes | ddlog'
+alias ydd='yes | ddbak && yes | ddlog'
+alias pozeni='source $HOME/bin/run-oneliner.sh'
+
+# --------------------------------------------------------
+
+alias stt='stat -c "%A %a %n" '
+alias cp='cp -nv'
+alias mv='mv -nv'
+alias rm='rm -Iv'
+alias cpn='yes n | cp -iv'
+alias sbr='source ~/.bashrc'
+alias vvm='vim ~/.vimrc'
+alias vbr='vim ~/.bashrc'
+alias vaf='vim /home/forallusers/aliases_forall'
+alias lys='/opt/lynis-1.3.0/lynis --check-all -Q'
+alias rmi='rm -vi'
+alias llh='ls -lAd --color ./.*'
+
+# --------------------------------------------------------
+alias hstl='history >> $HOME/majfajls/SEZNAMI/history-d_$(dejt).txt'
+
+alias ydlF='youtube-dl.exe -F '
+alias ydl="youtube-dl.exe -o '%(title)s_%(upload_date)s.%(ext)s'"
+
+### added 20130909
+
+alias wnds="wine 'c:\Program files\DVD Shrink\DVD Shrink 3.2.exe'"
+alias wndd="wine 'c:\Program Files\DVD Decrypter\DVDDecrypter.exe'"
+alias rpt4m="wine 'c:\Program Files\RipIt4Me\RipIt4Me.exe'"
+
+### added 20190919#
+
+alias ydlF='youtube-dl -F '
+alias ydl="youtube-dl -o '%(title)s_%(upload_date)s.%(ext)s'"
+
+### added 20130926 ----------------------------------------------
+alias fm='thunar'
+### alias fm='pcmanfm'
+### alias opn='pcmanfm' 
+alias opn='mousepad & 2>/dev/null'
+
+
+### added 20140114 ----------------------------------------------
+alias RB='sudo reboot'
+alias SD='sudo shutdown now'
+
+### added 20140131 ----------------------------------------------
+alias malina1.local='ssh pi@malina1.local'
+alias malina1.shutdown="ssh pi@malina1.local 'sudo halt'"
+
+# show IFS value [$' \t\n' -- space; $'\n' -- newline]
+# alias showifs='printf %q "$IFS"'
+# ALREADY AS FUNCTION IN /home/forallusers/bashrc_forall
+#
+
+alias doma='cd $DOMA'
+alias stop_evolution='pkill -9 -f evolution'
+alias dbot='cd /home/rgregor/Dropbox/ODPRTO/_TXT'
+alias tpon="xinput set-prop 13 \"Device Enabled\" 1"
+alias tpof="xinput set-prop 13 \"Device Enabled\" 0"
+alias malina1.pi="ssh pi@192.168.1.22"
+
+# 20150912
+alias baterija-status="upower -i /org/freedesktop/UPower/devices/battery_BAT0"
+
+
+# 20151102
+alias bttr='upower -i /org/freedesktop/UPower/devices/battery_BAT0'
+
+# added 20151115
+alias kocke='fgl_glxgears'
+
+
+
+# added 20151117
+alias files='nautilus'
+alias opnh="(files . &); exit"
+
+
+# added 20160111
+alias sau='sudo apt-get update'
+alias sag='sudo apt-get upgrade'
+alias sad='sudo apt-get dist-upgrade'
+
+# added 20160214
+alias dcm='doublecmd &'
+
+# added 20160229
+alias w_s='watch -n1 sensors'
+
+### added 20160510
+### moved to /home/forallusers/funclist 20160514
+### alias db1='dropbox start'
+### alias db0='dropbox stop'
+### alias dbs="watch -n1 'dropbox status'"
+
+# added 20160516 -- screen layouts ...
+alias sl1='screen -X source ~/.screen-lyt-01' # 1-st H split, lower region V-split
+alias sl2='screen -X source ~/.screen-lyt-02' # 1-st V-split, right region H-split
+alias sl3='screen -X source ~/.screen-lyt-03' # 2x V-split, 2x H-split
+
+
+# added 20161120 -- wrap on and off (from EN)
+alias wrapoff='printf "\033[?7l"'
+alias wrapon='printf "\033[?7h"'
+

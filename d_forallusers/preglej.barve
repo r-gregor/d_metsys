@@ -1,0 +1,16 @@
+. ./barve
+echo -e "${bela} BELA
+${svbela} SVBELA
+${rdeca} RDECA
+${svrdeca} SVRDECA
+${rumena} RUMENA
+${svrumena} SVRUMENA
+${plava} PLAVA
+${svplava} SVPLAVA
+${zelena} ZELENA
+${svzelena} SVZELENA
+${lila} LILA
+${svlila} SVLILA
+${modra} MODRA
+${svmodra} SVMODRA
+${navadna} -- nazaj na navadno ..."

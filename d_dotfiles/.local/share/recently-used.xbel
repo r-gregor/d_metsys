@@ -1,0 +1,1251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/00_NOVO" added="2020-12-19T18:02:22Z" modified="2020-12-28T17:53:25Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Transmission" exec="&apos;transmission-gtk %u&apos;" modified="2020-12-28T17:53:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/Downloads/eDEX-UI-Linux-x86_64.AppImage" added="2020-12-23T19:28:10Z" modified="2020-12-23T19:28:44Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-23T19:28:44Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/The-Fast-Saga.txt" added="2020-12-23T19:42:43Z" modified="2021-01-03T19:10:38Z" visited="1969-12-31T23:59:59Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-01-03T19:10:38Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/GREGOR/Programiranje/SICP.pdf" added="2020-12-25T19:32:22Z" modified="2020-12-25T19:34:33Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2020-12-25T19:34:33Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/GREGOR/Programiranje/software_engineering_how_to_design_programs.pdf" added="2020-12-25T19:33:16Z" modified="2020-12-25T19:33:16Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2020-12-25T19:33:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/GREGOR/Programiranje/sicp_20161119_02.pdf" added="2020-12-25T19:35:54Z" modified="2020-12-25T19:35:54Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2020-12-25T19:35:54Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/GREGOR/Programiranje/Algorithm%20Design%20-%20Jon%20Kleinberg,%20Eva%20Tardos.pdf" added="2020-12-25T19:37:25Z" modified="2020-12-25T19:37:25Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2020-12-25T19:37:25Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/GREGOR/Programiranje/bash.pdf" added="2020-12-25T19:37:39Z" modified="2020-12-25T19:37:39Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2020-12-25T19:37:39Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/GREGOR/Programiranje/Clean-Code_A-Handbook-of-Agile-Software-Craftmanshift_Robert-C-Martin.pdf" added="2020-12-25T19:37:56Z" modified="2020-12-25T19:37:56Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2020-12-25T19:37:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/GREGOR/Programiranje/Foundations-fd-Data-Acience_May2015.pdf" added="2020-12-25T19:38:13Z" modified="2020-12-25T19:38:13Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2020-12-25T19:38:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/GREGOR/Programiranje/The%20Algorithm%20Design%20Manual%20by%20Steven%20S.%20Skiena.pdf" added="2020-12-25T19:39:11Z" modified="2020-12-25T19:39:11Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2020-12-25T19:39:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/GREGOR/Programiranje/%5BThomas_H._Cormen%5D_Algorithms_unlocked(BookZZ.org).pdf" added="2020-12-25T19:40:02Z" modified="2020-12-25T19:40:02Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2020-12-25T19:40:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/GREGOR/Programiranje/tpip-TextProccessingInPython_pagesized.pdf" added="2020-12-25T19:40:40Z" modified="2020-12-25T19:40:40Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2020-12-25T19:40:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/GREGOR/Programiranje/5p_algorithms-in-python.pdf" added="2020-12-25T19:40:58Z" modified="2020-12-25T19:40:58Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2020-12-25T19:40:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/Dropbox/ODPRTO/_PDF/ASCII-and-Unicode-quotation-marks_20190322.pdf" added="2020-12-25T19:45:52Z" modified="2020-12-25T19:45:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2020-12-25T19:45:52Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/maj_ODPRTO/_PDF/Introduction.to.Algorithms.3rd.Edition.Sep.2010.pdf" added="2020-12-25T21:45:46Z" modified="2020-12-25T21:45:46Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2020-12-25T21:45:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/maj_ODPRTO/_PDF/Introduction-to-computing_FullText.pdf" added="2020-12-25T21:46:20Z" modified="2020-12-25T21:46:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2020-12-25T21:46:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/Skylines%20(2020)%20%5B720p%5D%20%5BWEBRip%5D%20%5BYTS.MX%5D.torrent" added="2020-12-27T18:50:31Z" modified="2020-12-27T18:50:32Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-27T18:50:32Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/Skyline%20(2010)%20%5B720p%5D%20%5BBluRay%5D%20%5BYTS.MX%5D.torrent" added="2020-12-27T18:51:41Z" modified="2020-12-27T18:51:42Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-27T18:51:42Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/Beyond%20Skyline%20(2017)%20%5B720p%5D%20%5BBluRay%5D%20%5BYTS.MX%5D.torrent" added="2020-12-27T18:51:57Z" modified="2020-12-27T18:51:57Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-27T18:51:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/Beyond%20Skyline%20(2017)%20%5B720p%5D%20%5BBluRay%5D%20%5BYTS.MX%5D.torrent" added="2020-12-27T18:52:09Z" modified="2020-12-27T18:52:10Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-27T18:52:10Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/Bill%20&amp;%20Ted%20Face%20the%20Music%20(2020)%20%5B720p%5D%20%5BBluRay%5D%20%5BYTS.MX%5D.torrent" added="2020-12-27T18:59:10Z" modified="2020-12-27T18:59:11Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-27T18:59:11Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/Mao&apos;s%20Last%20Dancer%20(2009)%20%5B720p%5D%20%5BBluRay%5D%20%5BYTS.MX%5D.torrent" added="2020-12-28T17:43:37Z" modified="2020-12-28T17:43:38Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-28T17:43:38Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/Downloads/atom-amd64.deb" added="2020-12-29T11:14:55Z" modified="2020-12-29T11:15:39Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-29T11:15:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/Dropbox/ODPRTO/_JAVA/jv_howto-use-typesafe-enums-in-java_20201229.txt" added="2020-12-29T11:31:44Z" modified="2020-12-29T12:00:21Z" visited="1969-12-31T23:59:59Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-12-29T11:31:44Z" count="1"/>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2020-12-29T12:00:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/order_118994.pdf" added="2020-12-29T18:01:11Z" modified="2020-12-29T18:01:12Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-29T18:01:11Z" count="1"/>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2020-12-29T18:01:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/Documents/Hartman_strune_20201229_order_118994.pdf" added="2020-12-29T18:01:41Z" modified="2020-12-29T18:01:42Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2020-12-29T18:01:42Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/Documents/biggestdirs_20201229.txt" added="2020-12-29T18:30:12Z" modified="2020-12-29T18:39:39Z" visited="1969-12-31T23:59:59Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-12-29T18:30:12Z" count="2"/>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2020-12-29T18:39:39Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/Documents/biggestdirs_20201229" added="2020-12-29T18:39:38Z" modified="2020-12-29T18:39:38Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2020-12-29T18:39:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/Downloads/2020-12-02-raspios-buster-armhf-full.zip" added="2020-12-30T13:33:45Z" modified="2020-12-30T13:56:36Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-30T13:56:36Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/Downloads/Dances-with-Wolves-1990_193799" added="2020-12-30T18:28:38Z" modified="2020-12-30T18:28:38Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-30T18:28:38Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/Downloads/Dances%20with%20Wolves%20Kevin%20Kostner%201990%20HDRip%20Directors%20C-English.srt" added="2020-12-30T18:28:55Z" modified="2020-12-30T18:28:55Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-subrip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-30T18:28:55Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/00_NOVO/_podnapisi/sl-dances-with-wolves-1990-SubRip-windows-1250.zip" added="2020-12-30T18:31:55Z" modified="2020-12-30T18:31:55Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-12-30T18:31:55Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/REDELONGHI%20okt%20nov%20dec%202020.PDF" added="2021-01-01T15:19:47Z" modified="2021-01-01T15:19:47Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2021-01-01T15:19:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/Obvestilo%2024.%2012.%202020.pdf" added="2021-01-01T15:25:28Z" modified="2021-01-01T15:25:28Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2021-01-01T15:25:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/Vo%C5%A1%C4%8Dilo%20O%C5%A0%20Majde%20Vrhovnik.jpg" added="2021-01-01T15:26:09Z" modified="2021-01-01T15:26:09Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2021-01-01T15:26:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/Vo%C5%A1%C4%8Dilo%20O%C5%A0MV%202021%20a.jpg" added="2021-01-01T15:26:29Z" modified="2021-01-01T15:26:29Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2021-01-01T15:26:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-37bb799083375a41358a7cd352def1a5.jpeg" added="2021-01-01T15:44:25Z" modified="2021-01-01T15:44:25Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-01T15:44:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-e3ce3c1f2583627ba998171e2c9ac0d1.jpeg" added="2021-01-01T15:45:23Z" modified="2021-01-01T15:45:24Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-01T15:45:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-519aa8e00016adccebadf13209c31b49.jpeg" added="2021-01-01T15:55:08Z" modified="2021-01-01T15:55:08Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-01T15:55:08Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/bbs_and_rest/main-qimg-79e62fb28f460eec48b663cbf43d50a7.png" added="2021-01-01T15:55:25Z" modified="2021-01-01T15:55:25Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-01T15:55:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/bbs_and_rest/main-qimg-65e58c7adb9c1c6906868d1ae8bcea11.jpeg" added="2021-01-01T15:56:13Z" modified="2021-01-01T15:56:13Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-01T15:56:13Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/bbs_and_rest/main-qimg-5e82b08f6290d8812aca6899fbba1ac0.jpeg" added="2021-01-01T15:56:45Z" modified="2021-01-01T15:56:45Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-01T15:56:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-c037089e5ff2d4dfad72790f98dcee9f-c.jpeg" added="2021-01-01T15:59:37Z" modified="2021-01-01T15:59:37Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-01T15:59:37Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-6e4f4183debe645e4c78f6b3ca1f8611.jpeg" added="2021-01-01T16:07:18Z" modified="2021-01-01T16:07:18Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-01T16:07:18Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-7ad92a312fd721f258c0aa2e5c0d5ac7.png" added="2021-01-01T16:09:39Z" modified="2021-01-01T16:09:39Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-01T16:09:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/bbs_and_rest/main-qimg-85e561631d562a58ebce77d4b13a06db.jpeg" added="2021-01-01T16:10:04Z" modified="2021-01-01T16:10:04Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-01T16:10:04Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-d6b72ee282af700b55e1986746ae4a77.jpeg" added="2021-01-01T16:14:22Z" modified="2021-01-01T16:14:23Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-01T16:14:23Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-1cb3af3e1e4b4f68246f04df6af6a0cd.png" added="2021-01-01T16:15:15Z" modified="2021-01-01T16:15:15Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-01T16:15:15Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-763c57d7e39a235ad4e95e82eb6e9e40.jpeg" added="2021-01-01T16:16:16Z" modified="2021-01-01T16:16:16Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-01T16:16:16Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-5a533fb16b890fb440af083064f22775.jpeg" added="2021-01-01T16:28:35Z" modified="2021-01-01T16:28:36Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-01T16:28:36Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/Crossroads%20(1986)%20%5B720p%5D%20%5BWEBRip%5D%20%5BYTS.MX%5D.torrent" added="2021-01-01T16:36:13Z" modified="2021-01-01T16:36:14Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-01T16:36:14Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/00_NOVO/_podnapisi/crossroads-1986-english-yify-263281.zip" added="2021-01-01T16:36:37Z" modified="2021-01-01T16:36:38Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-01T16:36:38Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/FILMCKI/iz_KORUZE/Movies/00_NOVO" added="2021-01-01T16:37:58Z" modified="2021-01-01T16:37:58Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Transmission" exec="&apos;transmission-gtk %u&apos;" modified="2021-01-01T16:37:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/Leap%20(2020)%20%5B720p%5D%20%5BBluRay%5D%20%5BYTS.MX%5D.torrent" added="2021-01-01T16:48:17Z" modified="2021-01-01T16:48:18Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-01T16:48:18Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/racun_20121144064.pdf" added="2021-01-03T19:04:45Z" modified="2021-01-03T19:04:45Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2021-01-03T19:04:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/renames_20200223.txt" added="2021-01-03T19:10:18Z" modified="2021-01-03T19:10:18Z" visited="1969-12-31T23:59:59Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-01-03T19:10:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/Documents/Vloga-za-uvlejavljanje-olajsave-za-otroke_20210104.pdf" added="2021-01-04T17:59:04Z" modified="2021-01-04T17:59:26Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="simple-scan" exec="&apos;simple-scan %u&apos;" modified="2021-01-04T17:59:04Z" count="1"/>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2021-01-04T17:59:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/Documents/Obvestilo-za-uvlejavljanje-olajsave-za-otroke_20210104.pdf" added="2021-01-04T18:00:11Z" modified="2021-01-04T18:00:11Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2021-01-04T18:00:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/racun_20121255030.pdf" added="2021-01-04T19:06:21Z" modified="2021-01-04T19:06:21Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2021-01-04T19:06:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/racun_20121255030-1.pdf" added="2021-01-04T19:14:13Z" modified="2021-01-04T19:14:13Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2021-01-04T19:14:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/Priloga-2-Vprasalnik-za-preverjanje-zdravstvenega-stanja-pacientov-pred-obravnavo-v-slovenskem-jeziku.docx" added="2021-01-05T17:48:04Z" modified="2021-01-05T17:49:11Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-05T17:48:04Z" count="1"/>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2021-01-05T17:49:11Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/Documents/Priloga-2-Vprasalnik-za-preverjanje-zdravstvenega-stanja-pacientov-pred-obravnavo-v-slovenskem-jeziku" added="2021-01-05T17:49:04Z" modified="2021-01-05T17:49:10Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2021-01-05T17:49:10Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/Documents/Priloga-2-Vprasalnik-za-preverjanje-zdravstvenega-stanja-pacientov-pred-obravnavo-v-slovenskem-jeziku.odt" added="2021-01-05T17:49:11Z" modified="2021-01-12T19:43:51Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2021-01-12T19:43:51Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/Screenshot_20210102-172201.jpg" added="2021-01-05T18:31:13Z" modified="2021-01-05T18:31:13Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2021-01-05T18:31:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/00_NOVO/Good%20Dick%20(2008)%20%5B720p%5D%20%5BWEBRip%5D%20%5BYTS.MX%5D.torrent" added="2021-01-05T18:42:48Z" modified="2021-01-05T18:42:49Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-05T18:42:49Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-59fbe03acdd5a50134e2d6cc93db4893.jpeg" added="2021-01-07T18:53:07Z" modified="2021-01-07T18:53:07Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-07T18:53:07Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/bbs_and_rest/main-qimg-cf7266628e45fd00080547bab7bd1174.jpeg" added="2021-01-07T18:55:00Z" modified="2021-01-07T18:55:00Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-07T18:55:00Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-4f56418ab052103834ac0b4627e2564d.png" added="2021-01-07T18:59:58Z" modified="2021-01-07T18:59:59Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-07T18:59:59Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-0bf498949185be4c8d44c92b174dfd56.gif" added="2021-01-07T19:02:06Z" modified="2021-01-07T19:02:06Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-07T19:02:06Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-1308ef91d61d5a6f118ae7cf27b3edce.png" added="2021-01-07T19:15:01Z" modified="2021-01-07T19:15:01Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-07T19:15:01Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-06ac243d3c61e0867448c5dac1efe944.jpeg" added="2021-01-07T19:33:03Z" modified="2021-01-07T19:33:04Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-07T19:33:04Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-12d7723b9505aa616683c45eccaae6bc.jpeg" added="2021-01-07T19:38:03Z" modified="2021-01-07T19:38:03Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-07T19:38:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/Documents/TZATZIKI_recept_20210110.txt" added="2021-01-10T08:46:53Z" modified="2021-01-10T08:46:54Z" visited="1969-12-31T23:59:59Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-01-10T08:46:54Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-8466a5ecd0387d388690e2e09a24ed6a.jpeg" added="2021-01-12T17:41:32Z" modified="2021-01-12T17:41:32Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-12T17:41:32Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-8fbf4354334739a881a7c85ee02669d9.jpeg" added="2021-01-12T17:41:39Z" modified="2021-01-12T17:41:39Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-12T17:41:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-e7046ec22e26a5e50dbb854887e18b26.png" added="2021-01-12T17:42:44Z" modified="2021-01-12T17:42:45Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-12T17:42:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/bbs_and_rest/main-qimg-89da807c61327d748fc086cbec10ca97.jpeg" added="2021-01-12T17:46:10Z" modified="2021-01-12T17:46:10Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-12T17:46:10Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/bbs_and_rest/main-qimg-8c1591f16b5e167c029c82c68fa9a475.jpeg" added="2021-01-12T17:51:38Z" modified="2021-01-12T17:51:38Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-12T17:51:38Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-274a50fb4ddf40e868f1b0d872e9e4b9.png" added="2021-01-13T17:28:51Z" modified="2021-01-13T17:28:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-13T17:28:52Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/00_NOVO/Scenes%20of%20a%20Sexual%20Nature%20(2006)%20%5B720p%5D%20%5BWEBRip%5D%20%5BYTS.MX%5D.torrent" added="2021-01-14T17:17:28Z" modified="2021-01-14T17:17:29Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-14T17:17:29Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/00_NOVO/Afternoon%20Affair%20Rear%20Window%20(1972)%20%5B720p%5D%20%5BBluRay%5D%20%5BYTS.MX%5D.torrent" added="2021-01-14T17:35:00Z" modified="2021-01-14T17:35:01Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-14T17:35:01Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/.screenlayout/jbez0rg-to-HDTV.sh" added="2021-01-14T18:30:49Z" modified="2021-01-20T19:57:00Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="arandr" exec="&apos;arandr %u&apos;" modified="2021-01-20T19:57:00Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/Documents/Netflix_FREE-trial-issue-live-chat_20210116.txt" added="2021-01-16T19:29:24Z" modified="2021-01-16T19:29:24Z" visited="1969-12-31T23:59:59Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-01-16T19:29:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/JAVA_d_testing/jd057_CountryCapitalsGui_jsnon_20200422/CountriesCapitalsGUI3-1.desktop" added="2021-01-17T19:15:02Z" modified="2021-01-17T19:15:02Z" visited="1969-12-31T23:59:59Z">
+    <desc>Charset: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2021-01-17T19:15:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/Navodila%20ocenjevanje%20na%20daljavo%2018.%201.%202021%20-%20O%C5%A0%20Majde%20Vrhovnik.pdf" added="2021-01-18T16:50:46Z" modified="2021-01-18T16:50:46Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2021-01-18T16:50:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/Obvestilo%2018.%201.%202021.pdf" added="2021-01-18T16:52:50Z" modified="2021-01-18T16:52:50Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2021-01-18T16:52:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/11457_PRILOGA%201%20sklep%20ministrice_O%C5%A0.pdf" added="2021-01-18T16:53:42Z" modified="2021-01-18T16:53:42Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2021-01-18T16:53:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/obrazec.pdf" added="2021-01-20T18:02:53Z" modified="2021-01-20T18:02:53Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2021-01-20T18:02:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/Documents/Spela_Prijava-na-cepljenje_20210120.pdf" added="2021-01-20T18:03:31Z" modified="2021-01-20T18:03:31Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2021-01-20T18:03:31Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/obrazec-1.pdf" added="2021-01-20T18:03:42Z" modified="2021-01-20T18:03:42Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2021-01-20T18:03:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/Documents/Spela_Prijava-na-cepljenje_6462642000-04706-20210120-003711.pdf" added="2021-01-20T18:04:20Z" modified="2021-01-20T18:05:24Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2021-01-20T18:04:21Z" count="2"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-20T18:05:24Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/obrazec-2.pdf" added="2021-01-20T18:08:05Z" modified="2021-01-20T18:08:05Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2021-01-20T18:08:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/obrazec-3.pdf" added="2021-01-20T18:08:43Z" modified="2021-01-20T18:08:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2021-01-20T18:08:43Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/Documents/Mark_Prijava-na-cepljenje_6462642000-04706-20210120-003742.pdf" added="2021-01-20T18:09:35Z" modified="2021-01-20T18:09:35Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-20T18:09:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/obrazec-4.pdf" added="2021-01-20T18:10:51Z" modified="2021-01-20T18:10:51Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2021-01-20T18:10:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/Documents/Zala_Prijava-na-cepljenje_6462642000-04706-20210120-003753.pdf" added="2021-01-20T18:11:42Z" modified="2021-01-20T18:11:42Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-20T18:11:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/obrazec-5.pdf" added="2021-01-20T18:13:17Z" modified="2021-01-20T18:13:17Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2021-01-20T18:13:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/Documents/Tadeja_Prijava-na-cepljenje_6462642000-04706-20210120-003769.pdf" added="2021-01-20T18:13:58Z" modified="2021-01-20T18:13:58Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-20T18:13:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/obrazec-6.pdf" added="2021-01-20T18:15:16Z" modified="2021-01-20T18:15:16Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Atril Document Viewer" exec="&apos;atril %u&apos;" modified="2021-01-20T18:15:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/Documents/Gregor_Prijava-na-cepljenje_6462642000-04706-20210120-003776.pdf" added="2021-01-20T18:16:00Z" modified="2021-01-20T18:16:00Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-20T18:16:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdo" added="2021-01-20T23:33:37Z" modified="2021-01-20T23:33:38Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-20T23:33:38Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/bbs_and_rest/99225170c5b019df1debd7fd94124137.jpeg" added="2021-01-20T23:34:30Z" modified="2021-01-20T23:34:30Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-20T23:34:30Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///tmp/mozilla_rgregor0/Valvasorjeva%20ulica%205.DOC" added="2021-01-21T19:41:29Z" modified="2021-01-21T19:41:32Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/msword"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunderbird" exec="&apos;thunderbird %u&apos;" modified="2021-01-21T19:41:29Z" count="1"/>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2021-01-21T19:41:32Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/bbs_and_rest/tumblr_inline_n3qpq7sY0r1qblhls.jpeg" added="2021-01-21T19:47:39Z" modified="2021-01-21T19:47:40Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-21T19:47:40Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/bbs_and_rest/unnamed.jpeg" added="2021-01-21T19:47:55Z" modified="2021-01-21T19:47:55Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-21T19:47:55Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/bbs_and_rest/Katee-Sackhoff-nude-brief-topless-and-Charlie-Marie-Dupont-nude-topless-Riddick-2013-hd1080p-4.webp" added="2021-01-21T19:48:30Z" modified="2021-01-21T19:48:31Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/webp"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-21T19:48:31Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/bbs_and_rest/Katee-Sackhoff-naked-celebrity-pictures-1.jpeg" added="2021-01-21T19:48:45Z" modified="2021-01-21T19:48:45Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-21T19:48:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/bbs_and_rest/Katee+Sackhoff+masturbates.jpeg" added="2021-01-21T19:48:52Z" modified="2021-01-21T19:48:52Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-21T19:48:52Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-c1452c7eaa0aca81441e92c1e9e339c1.png" added="2021-01-21T22:25:03Z" modified="2021-01-21T22:25:03Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-21T22:25:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/OLDHDD/rgregor/majfajls/majdoks/.spsl/_IMAGES/main-qimg-d26af0aa0c0f4816f072e52272cbeade.png" added="2021-01-21T22:25:43Z" modified="2021-01-21T22:25:44Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-21T22:25:44Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/00_NOVO/Blind%20(2014)%20%5B720p%5D%20%5BBluRay%5D%20%5BYTS.MX%5D.torrent" added="2021-01-23T14:35:06Z" modified="2021-01-23T14:35:07Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-23T14:35:07Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/00_NOVO/Gone%20Girl%20(2014)%20%5B720p%5D%20%5BBluRay%5D%20%5BYTS.MX%5D.torrent" added="2021-01-23T14:50:23Z" modified="2021-01-23T14:50:23Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-23T14:50:23Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/00_NOVO/gone-girl-2014-english-yify-240770.zip" added="2021-01-23T14:51:23Z" modified="2021-01-23T14:51:23Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-23T14:51:23Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/00_NOVO/gone-girl-2014-slovenian-yify-55755.zip" added="2021-01-23T14:51:45Z" modified="2021-01-23T14:51:45Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-23T14:51:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/00_NOVO/_podnapisi/chicago-2002-english-yify-112880.zip" added="2021-01-23T15:33:47Z" modified="2021-01-23T15:33:47Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-23T15:33:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/00_NOVO/_podnapisi/chicago-2002-SLO.zip" added="2021-01-23T15:35:04Z" modified="2021-01-23T15:35:04Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-23T15:35:04Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/00_NOVO/_podnapisi/beyond-skyline-2017-english-yify-30213.zip" added="2021-01-23T15:41:57Z" modified="2021-01-23T15:41:57Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-23T15:41:57Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/00_NOVO/_podnapisi/skyline-2010-english-yify-91247.zip" added="2021-01-23T15:44:07Z" modified="2021-01-23T15:44:08Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-23T15:44:08Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/00_NOVO/_podnapisi/skylines-2020-english-yify-268047.zip" added="2021-01-23T15:45:00Z" modified="2021-01-23T15:45:00Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-23T15:45:00Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/00_NOVO/YTS.mx_torrents/Skylines%20(2020)%20%5B720p%5D%20%5BBluRay%5D%20%5BYTS.MX%5D.torrent" added="2021-01-23T15:49:16Z" modified="2021-01-23T15:49:17Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-bittorrent"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-01-23T15:49:17Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

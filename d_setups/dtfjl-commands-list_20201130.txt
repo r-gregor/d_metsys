@@ -1,0 +1,11 @@
+  928  2020-12-01 00:00:20 git init --bare d_metsys2/
+  929  2020-12-01 00:01:00 ls d_metsys_source/
+  930  2020-12-01 00:01:27 dtfls add d_dotfiles d_forallusers d_setups
+  931  2020-12-01 00:01:37 dtfls commit -m "Commit with d_dotfiles 20201130"
+  932  2020-12-01 00:01:45 dtfls remote add origin https://github.com/r-gregor/d_metsys2
+  945  2020-12-01 00:11:21 dtfls push -u origin master
+
+# alias:
+# alias dtfls='/usr/bin/git --git-dir=$HOME/d_metsys_git_setup/d_metsys2 --work-tree=$HOME/d_metsys_git_setup/d_metsys_source'
+
+

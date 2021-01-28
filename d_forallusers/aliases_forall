@@ -1,0 +1,122 @@
+# --------------------------------------------------------
+# ALIASES:
+
+unalias -a
+
+# alias go='source /home/gredelonghi/bin/gooo.sh'
+
+# alias ls='\ls --group-directories-first --color=always'
+# alias lsa='\ls --group-directories-first --color=always -a'
+# alias lss='\ls --group-directories-first -F'
+# alias L='ls -F'
+# alias lst='lss -t'
+# alias l1='ls -1F --color'
+# alias ll='ls -lF --time-style=long-iso'
+# alias llc='lss -lF --time-style=long-iso'
+# alias la='ll -A --time-style=long-iso'
+# alias lac='lss -AlF --time-style=long-iso'
+# alias lo='ls -gotrF'
+# alias lld='ls -l --time-style=long-iso | grep ^d'
+# alias lsd='ls -d */'
+alias cl='clear'
+alias cls='clear'
+# alias cp='cp -n'
+alias grepc='GREP_COLOR="1;31" LANG=C grep --color=auto'
+alias hst='history'
+alias xx='logout'
+alias stt='stat -c "%A %a %n" '
+alias sbr='source ~/.bashrc'
+alias vvm='vim ~/.vimrc'
+alias vbr='vim ~/.bashrc'
+alias hstl='history >> $HOME/majstaf/seznami/history-d_$(dejt).txt'
+
+### added 20190919#
+alias ydlF='youtube-dl -F '
+alias ydl="youtube-dl -o '%(title)s_%(upload_date)s.%(ext)s'"
+
+### added 20130926 ----------------------------------------------
+alias fm='thunar'
+alias pm='pcmanfm'
+# alias opn='pcmanfm'
+alias opn='mousepad & 2>/dev/null'
+
+### added 20140114 ----------------------------------------------
+alias rb='sudo reboot'
+alias sd='sudo shutdown -h now'
+
+# 20150912
+alias bat-stat="upower -i /org/freedesktop/UPower/devices/battery_BAT0"
+
+# 20151102
+alias bttr='upower -i /org/freedesktop/UPower/devices/battery_BAT0'
+
+# added 20151115
+# alias kocke='fgl_glxgears'
+
+# added 20160111
+alias sau='sudo apt update'
+alias sag='sudo apt upgrade'
+alias sad='sudo apt-get dist-upgrade'
+
+# added 20160214
+alias dcm='doublecmd &'
+
+# added 20160229
+alias w_s='watch -n1 sensors'
+
+# added 20160516 -- screen layouts ...
+alias sl1='screen -X source ~/.screen-lyt-01' # 1-st H split, lower region V-split
+alias sl2='screen -X source ~/.screen-lyt-02' # 1-st V-split, right region H-split
+alias sl3='screen -X source ~/.screen-lyt-03' # 2x V-split, 2x H-split
+
+# added 20161120 -- wrap on and off (from EN)
+alias wrapoff='printf "\033[?7l"'
+alias wrapon='printf "\033[?7h"'
+
+alias kodis='ssh root@192.168.64.32'
+alias crlw='curl wttr.in/Ljubljana'
+
+# added 20170818 -- watch df
+alias wdf='watch -d -n1 df'
+alias wdfh='watch -d -n1 df -h'
+alias wdu='watch -d -n1 du -s ./*'
+
+# added 20180216
+alias ktmx='tmux kill-server'
+alias ktmux='tmux kill-server'
+alias tmux='tmux -2'
+
+# added 20180523
+alias jvcd='for FFF in $(ls -1 *java); do javac -verbose $FFF && echo -e done "$FFF\n----------------------------"; done'
+alias umount='umount -v'
+
+alias duh='du -sh ./* | sort -hr'
+alias cli='exo-open --launch TerminalEmulator'
+alias du1='du -h -d1 $PWD/* | sort -hr | less'
+alias un-mount_dev_sdcs='echo "syncing ..." && sudo sync && echo "UN-mounting ..." && sudo umount -v /dev/sdc*'
+
+# added 20190204
+alias jar='/usr/lib/jvm/java-11-openjdk-amd64/bin/jar'
+alias jrun='java -jar '
+
+export DBX="/home/rgregor/OLDHDD/Dropbox/"
+alias dboj='cd ${DBX}/ODPRTO/_JAVA'
+alias dbot='cd ${DBX}/ODPRTO/_TXT'
+alias dbop='cd ${DBX}/ODPRTO/_PYTHON'
+alias dbog='cd ${DBX}/ODPRTO/_GO'
+
+alias tpon="xinput set-prop 13 \"Device Enabled\" 1"
+alias tpof="xinput set-prop 13 \"Device Enabled\" 0"
+
+
+# added 20191014
+alias tree='tree --noreport --charset ASCII'
+
+# added 20200228
+alias vscode='code'
+alias show='find /usr/local/bin/* -type l | xargs ls --color'
+# alias dotfiles='/usr/bin/git --git-dir=/home/rgregor/dotfiles_d --work-tree=/home/rgregor/dotfiles'
+# alias dotfls='/usr/bin/git --git-dir=/home/rgregor/for_github/dotfiles_d --work-tree=/home/rgregor/for_github/dotfiles'
+alias bsps='/usr/bin/git --git-dir=$HOME/for_github/umin_bspwm/umin_bspwm_setup --work-tree=$HOME/for_github/umin_bspwm/umin_bspwm_files'
+alias dtfls='/usr/bin/git --git-dir=$HOME/d_metsys_git_setup/d_metsys.git --work-tree=$HOME/d_metsys_git_setup/d_metsys_source'
+

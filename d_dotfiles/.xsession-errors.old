@@ -1,0 +1,231 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/rgregor/.Xauthority
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-xubuntu:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting CLUTTER_BACKEND=x11
+dbus-update-activation-environment: setting LANGUAGE=en_US
+dbus-update-activation-environment: setting MANDATORY_PATH=/usr/share/gconf/xubuntu.mandatory.path
+dbus-update-activation-environment: setting LC_ADDRESS=sl_SI.UTF-8
+dbus-update-activation-environment: setting LC_NAME=sl_SI.UTF-8
+dbus-update-activation-environment: setting DESKTOP_SESSION=xubuntu
+dbus-update-activation-environment: setting LC_MONETARY=sl_SI.UTF-8
+dbus-update-activation-environment: setting PWD=/home/rgregor
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=xubuntu
+dbus-update-activation-environment: setting LOGNAME=rgregor
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=gtk2
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/rgregor/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/rgregor
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting HOME=/home/rgregor
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=sl_SI.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=XFCE
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=sl_SI.UTF-8
+dbus-update-activation-environment: setting GTK_OVERLAY_SCROLLING=0
+dbus-update-activation-environment: setting DEFAULTS_PATH=/usr/share/gconf/xubuntu.default.path
+dbus-update-activation-environment: setting USER=rgregor
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=sl_SI.UTF-8
+dbus-update-activation-environment: setting LC_MEASUREMENT=sl_SI.UTF-8
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting LC_TIME=sl_SI.UTF-8
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xubuntu:/usr/share/xfce4:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=xubuntu
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=sl_SI.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+
+(xfce4-session:1325): xfce4-session-WARNING **: 17:58:52.281: xfsm_manager_load_session: Something wrong with /home/rgregor/.cache/sessions/xfce4-session-jbez0rg:0, Does it exist? Permissions issue?
+xfwm4-Message: 17:58:52.524: Prefer XPresent with Mesa DRI Intel(R) HD Graphics 3000 (SNB GT2)
+
+** (wrapper-2.0:1508): WARNING **: 17:58:53.194: No outputs have backlight property
+
+(wrapper-2.0:1505): GLib-GIO-CRITICAL **: 17:58:53.204: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:1505): GLib-GIO-CRITICAL **: 17:58:53.204: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:1505): GLib-GObject-WARNING **: 17:58:53.204: invalid (NULL) pointer instance
+
+(wrapper-2.0:1505): GLib-GObject-CRITICAL **: 17:58:53.204: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:1505): Gtk-WARNING **: 17:58:53.204: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+(wrapper-2.0:1505): Gtk-WARNING **: 17:58:53.265: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:1503): Gtk-WARNING **: 17:58:53.290: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:1508): Gtk-WARNING **: 17:58:53.396: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PowerManagerButton)
+
+(wrapper-2.0:1509): Gtk-WARNING **: 17:58:53.397: Negative content width -3 (allocation 1, extents 2x2) while allocating gadget (node button, owner PulseaudioButton)
+
+(polkit-gnome-authentication-agent-1:1563): GLib-CRITICAL **: 17:58:53.720: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:1563): polkit-gnome-1-WARNING **: 17:58:53.724: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+thunar-volman: Unsupported USB device type "usb".
+thunar-volman: Unsupported USB device type "usb-storage".
+thunar-volman: Unknown block device type "disk".
+thunar-volman: Unsupported USB device type "usb".
+thunar-volman: Unsupported USB device type "uas".
+thunar-volman: Unknown block device type "disk".
+dropbox: locating interpreter
+dropbox: logging to /tmp/dropbox-antifreeze-x5WYw8
+dropbox: initializing
+dropbox: initializing python 3.7.9
+dropbox: setting program path '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/dropbox'
+dropbox: setting python path '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507:/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/python-packages.zip'
+dropbox: python initialized
+dropbox: running dropbox
+dropbox: setting args
+dropbox: enabling allocator metrics
+dropbox: applying overrides
+dropbox: running main script
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/cryptography.hazmat.bindings._constant_time.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/cryptography.hazmat.bindings._openssl.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/cryptography.hazmat.bindings._padding.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/psutil._psutil_linux.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/psutil._psutil_posix.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/apex._apex.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/tornado.speedups.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/wrapt._wrappers.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/PyQt5.QtWidgets.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/PyQt5.QtCore.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/PyQt5.QtGui.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/PyQt5.QtDBus.cpython-37m-x86_64-linux-gnu.so'
+
+(xfdesktop:1542): GLib-CRITICAL **: 18:11:49.483: g_variant_new_string: assertion 'string != NULL' failed
+Working directory "/home/rgregor/[Invalid UTF-8]" does not exist. It won't be used when spawning "exo-open".erresc: unknown csi ESC[>4;2m
+erresc: unknown csi ESC[22;2t
+erresc: unknown csi ESC[22;1t
+erresc: unknown csi ESC[>c
+erresc: unknown str ESC]10
+erresc: unknown str ESC]11
+erresc: unknown csi ESC[23;2t
+erresc: unknown csi ESC[23;1t
+erresc: unknown csi ESC[>4;m
+erresc: unknown csi ESC[>4;2m
+erresc: unknown csi ESC[22;2t
+erresc: unknown csi ESC[22;1t
+erresc: unknown csi ESC[>c
+erresc: unknown str ESC]10
+erresc: unknown str ESC]11
+erresc: unknown csi ESC[23;2t
+erresc: unknown csi ESC[23;1t
+erresc: unknown csi ESC[>4;m
+erresc: unknown csi ESC[>4;2m
+erresc: unknown csi ESC[22;2t
+erresc: unknown csi ESC[22;1t
+erresc: unknown csi ESC[>c
+erresc: unknown str ESC]10
+erresc: unknown str ESC]11
+erresc: unknown csi ESC[23;2t
+erresc: unknown csi ESC[23;1t
+erresc: unknown csi ESC[>4;m
+erresc: unknown csi ESC[>4;2m
+erresc: unknown csi ESC[22;2t
+erresc: unknown csi ESC[22;1t
+erresc: unknown csi ESC[>c
+erresc: unknown str ESC]10
+erresc: unknown str ESC]11
+erresc: unknown csi ESC[23;2t
+erresc: unknown csi ESC[23;1t
+erresc: unknown csi ESC[>4;m
+child exited with status 126
+/usr/local/bin/stn: line 13: /home/rgregor/majstaf/majprogs/st-0.8.4_Nord/st/st: Not a directory
+erresc: unknown csi ESC[>4;2m
+erresc: unknown csi ESC[22;2t
+erresc: unknown csi ESC[22;1t
+erresc: unknown csi ESC[>c
+erresc: unknown str ESC]10
+erresc: unknown str ESC]11
+erresc: unknown csi ESC[23;2t
+erresc: unknown csi ESC[23;1t
+erresc: unknown csi ESC[>4;m
+erresc: unknown csi ESC[>4;2m
+erresc: unknown csi ESC[22;2t
+erresc: unknown csi ESC[22;1t
+erresc: unknown csi ESC[>c
+erresc: unknown str ESC]10
+erresc: unknown str ESC]11
+erresc: unknown csi ESC[23;2t
+erresc: unknown csi ESC[23;1t
+erresc: unknown csi ESC[>4;m
+child exited with status 127
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+erresc: unknown csi ESC[>4;2m
+erresc: unknown csi ESC[22;2t
+erresc: unknown csi ESC[22;1t
+erresc: unknown csi ESC[>c
+erresc: unknown str ESC]10
+erresc: unknown str ESC]11
+erresc: unknown csi ESC[23;2t
+erresc: unknown csi ESC[23;1t
+erresc: unknown csi ESC[>4;m
+erresc: unknown csi ESC[>4;2m
+erresc: unknown csi ESC[22;2t
+erresc: unknown csi ESC[22;1t
+erresc: unknown csi ESC[>c
+erresc: unknown str ESC]10
+erresc: unknown str ESC]11
+erresc: unknown csi ESC[23;2t
+erresc: unknown csi ESC[23;1t
+erresc: unknown csi ESC[>4;m
+dropbox: locating interpreter
+dropbox: logging to /tmp/dropbox-antifreeze-F4iZRN
+dropbox: initializing
+dropbox: initializing python 3.7.9
+dropbox: setting program path '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/dropbox'
+dropbox: setting python path '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507:/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/python-packages.zip'
+dropbox: python initialized
+dropbox: running dropbox
+dropbox: setting args
+dropbox: enabling allocator metrics
+dropbox: applying overrides
+dropbox: running main script
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/cryptography.hazmat.bindings._constant_time.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/cryptography.hazmat.bindings._openssl.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/cryptography.hazmat.bindings._padding.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/psutil._psutil_linux.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/psutil._psutil_posix.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/apex._apex.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/tornado.speedups.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/wrapt._wrappers.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/PyQt5.QtWidgets.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/PyQt5.QtCore.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/PyQt5.QtGui.cpython-37m-x86_64-linux-gnu.so'
+dropbox: load fq extension '/home/rgregor/.dropbox-dist/dropbox-lnx.x86_64-113.4.507/PyQt5.QtDBus.cpython-37m-x86_64-linux-gnu.so'
+thunar-volman: Unsupported USB device type "usb".
+thunar-volman: Unsupported USB device type "uas".
+thunar-volman: Unknown block device type "disk".
+thunar-volman: Unsupported USB device type "usb".
+thunar-volman: Unsupported USB device type "usb-storage".
+thunar-volman: Unknown block device type "disk".
+
+(Thunar:1513): Gtk-CRITICAL **: 18:41:18.551: gtk_main_quit: assertion 'main_loops != NULL' failed
+
+(xfce4-session:1325): GLib-GObject-WARNING **: 18:41:19.640: invalid unclassed pointer in cast to 'XfsmManager'
+Gdk-Message: 18:41:19.661: polkit-gnome-authentication-agent-1: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+
+Gdk-Message: 18:41:19.662: update-notifier: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+
+Gdk-Message: 18:41:19.663: plank: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+
+X connection to :0.0 broken (explicit kill or server shutdown).
+Gdk-Message: 18:41:19.666: nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+

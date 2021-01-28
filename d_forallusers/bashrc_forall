@@ -1,0 +1,91 @@
+# -------------------------------------------------------------------------------
+
+# EXPORTs
+# =======
+
+export LESS="-QR"
+export HISTCONTROL=erasedups
+export HISTSIZE=10000
+export HISTFILESIZE=5000
+export HISTIGNORE=$'[ \t]*:&:[fb]g:exit'
+# export HISTIGNORE=$'[ \t]*:&:[fb]g:exit:ls' # Ignore the ls command as well
+export EDITOR=/usr/bin/nano
+export TERM=rxvt
+
+### changed 20160510
+# export PS1='$(printf "\n%s\n")\$> \u@\h [${PWD}] \n\$> '
+export PS1='$(printf "\n%s\n")\$> \[\033[01;32m\]\u@\h \[\033[01;34m\][${PWD}]\[\033[00m\] \n\$> '
+export PS1='$(printf "%s")\[\033[01;32m\]\u@\h \[\033[01;34m\]\w\[\033[00m\] \$> '
+
+### TERMINAL & DISPLAY SETTINGS 20160514
+### terminal font settings: Ubuntu mono, 11;
+### transparent background (0,96); text selection color: #F20608; 
+### background color: #1A1717; text color: #CFC8C8
+
+
+unset TMP
+unset TEMP
+export TMP=/tmp
+export TEMP=/tmp
+
+# -------------------------------------------------------------------------------
+
+# VARIABLES
+# =========
+
+### eval "`dircolors -b ~/.dircolorsrc`"
+
+export djt=$(date +%Y%m%d)
+export djtt=$(date +%Y%m%d-%H%M%S)
+export KRZ="/home/rgregor/majstaf/FILMCKI/iz_KORUZE"
+export KRZM="/home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies"
+export KRZMN="/home/rgregor/majstaf/FILMCKI/iz_KORUZE/Movies/00_NOVO"
+export KRZS="/home/rgregor/majstaf/FILMCKI/iz_KORUZE/TV_Shows"
+export KRZSN="/home/rgregor/majstaf/FILMCKI/iz_KORUZE/TV_Shows/00_NOVO"
+export TMPP='/tmp/Popcorn-Time'
+
+
+# -------------------------------------------------------------------------------
+
+# backspace = delete
+# ==================
+
+if tty --quiet; then
+stty erase '^?'
+fi
+
+# -------------------------------------------------------------------------------
+#
+
+#
+# set IFS to newline '\n'
+nifs()	{
+	echo -n "setting IFS to newline ..."
+	IFS=$'\n'
+	echo " done."
+	}
+
+# set IFS to orginal ' \t\n'
+oifs()
+	{
+	echo -n "setting IFS to original value ..."
+	IFS=$' \t\n'
+	echo " done."
+	}
+
+# show IFS value
+showifs()
+	{
+	printf %q "$IFS"
+	}
+
+# source /home/forallusers/xcol_bash.sh
+
+# export PYTHONPATH="/home/rgregor/majstaf/RUT/home/pbin/"
+export RUT='/home/rgregor/majstaf/RUT'
+export JPATH="/home/rgregor/majstaf/coding/JAVA_d"
+# export CLASSPATH=".:${JPATH}/JAVA_d_RUT"
+export JAVA_HOME="/usr/lib/jvm/java-11-openjdk-amd64"
+export JDK_HOME="/usr/lib/jvm/java-11-openjdk-amd64"
+export PATH_TO_FX="/usr/share/openjfx/lib"
+

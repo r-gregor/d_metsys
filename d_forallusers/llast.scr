@@ -1,0 +1,9 @@
+### This script must not be started as bash script becouse
+### it starts it in a subshell!! In order to make it work
+### you have to SOURCE IT (from the script??)!
+###
+### script that stores the last typed command into variable
+### and writes it in the first line of a file and than executes
+### and writes the output of a command into same file
+
+_cmmd=$(history -p \!\!)

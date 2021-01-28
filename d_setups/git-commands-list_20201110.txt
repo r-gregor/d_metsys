@@ -1,0 +1,89 @@
+filename: git-commands-list_20201110.txt
+git clone http://github.com/r-gregor/dotfiles_en.git
+sudo ls -d .* | xargs -n1 du -sh | sort -hr >> dotfilessizes.txt
+less dotfilessizes.txt 
+mv dotfilessizes{,_20201110}.txt 
+git help config
+git help config --global
+git config --global user.name "r-gregor"
+git config --global user.email "gredelonghi@gmail.com"
+git config --global --list
+cp -r autostart/ awesome/ bspwm/ lfm mc neofetch/ nitrogen/ openbox/ plank/ ranger/ rofi/ sxhkd/ tint2/  ~/dotfiles_d/.config/
+mv dotfiles_d/* dotfiles/
+mv dotfiles_d/.* dotfiles/
+cd ../dotfiles
+git init --bare dotfiles_d/
+echo "alias dotfiles='/usr/bin/git --git-dir=$HOME/dotfiles_d --work-tree=$HOME/diofiles'" >> /home/forallusers/aliases_forall
+dotfiles add dotfiles/.*
+dotfiles add $HOME/dotfiles/.*
+dotfiles add $HOME/dotfiles/*
+dotfiles add /home/rgregor/dotfiles/.config
+dotfiles add .config/
+dotfiles commit -m "First push to dotfiles_d"
+dotfiles config --local status.showUntrackedFiles no
+dotfiles add .config
+dotfiles add .config/*
+dotfiles remote add origin https://github.com/r-gregor/dotfiles_d.git
+echo "First line" > TESTFILE
+dotfiles commit -m "Adding TESTFILE"
+echo "Another LINE" >> TESTFILE 
+dotfiles add TESTFILE 
+dotfiles commit -m "Updating changed TESTFILE"
+dotfiles push -u origin master
+mkdir for_github
+cp -r dotfiles* for_github/
+cd dotfiles
+echo "Third LINE!" >> TESTFILE 
+cat TESTFILE 
+dotfls add TESTFILE 
+dotfls commit -m "Another update of TESTFILE"
+dotfls push -u origin master
+# ==================================================================================================
+mkdir umin_bspwm
+cp bspwm_setup_20201106.txt history_20201107_1037.txt tint2rc-testing ../for_github/umin_bspwm/
+cd ../for_github/umin_bspwm/
+mkdir metsys
+mv bspwm_setup_20201106.txt history_20201107_1037.txt tint2rc-testing metsys/
+mkdir umin_bspwm_files
+mkdir umin_bspwm_repo
+mv metsys/ umin_bspwm_files/
+cd VBox_Shared/
+mkdir files
+cd for_github/
+cd umin_bspwm/
+cp -r ~/VBox_Shared/* umin_bspwm_files/
+ls -A umin_bspwm_files/
+mv bspwm_setup_20201106.txt history_20201107_1037.txt neofetch_output_20201110.txt tint2rc-testing metsys/
+mv -i bspwm_setup_20201106.txt history_20201107_1037.txt neofetch_output_20201110.txt tint2rc-testing metsys/
+mv files/ dotfiles/
+mv umin_bspwm_repo/ umin_bspwm_setup
+git init --bare $HOME/for_github/umin_bspwm/umin_bspwm_setup/
+vim /home/forallusers/aliases_forall
+-- add: alias bsps='/usr/bin/git --git-dir=$HOME/for_github/umin_bspwm/umin_bspwm_setup --work-tree=$HOME/for_github/umin_bspwm/umin_bspwm_files'
+sbr
+cd umin_bspwm_files/
+bsps add dotfiles/ metsys/
+bsps remote add origin https://github.com/r-gregor/umin_bspwm_vm_setup.git
+bsps push -u origin master
+bsps remote -v
+# ==================================================================================================
+$> rgregor@masteryoda [/home/rgregor/for_github] 
+$> tree -d -L 2
+.
+|-- dotfiles(w)
+|-- dotfiles_d(r)
+|   |-- branches
+|   |-- hooks
+|   |-- info
+|   |-- logs
+|   |-- objects
+|   `-- refs
+`-- umin_bspwm
+    |-- umin_bspwm_files(w)
+    `-- umin_bspwm_setup(r)
+
+(r) - repository --> same name as http://github.com/r-gregor/<repository name>
+(w) - work-tree  --> where the files/dirs to push to repository reside (copies)
+# ==================================================================================================
+
+

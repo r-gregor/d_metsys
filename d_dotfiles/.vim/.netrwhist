@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/rgregor/majstaf/FILMCKI/iz_KORUZE'
+let g:netrw_dirhist_3='/home/rgregor/majstaf/majbin'
+let g:netrw_dirhist_2='/home/rgregor/majstaf/forallusers'
+let g:netrw_dirhist_1='/home/rgregor/majstaf/majbin'
