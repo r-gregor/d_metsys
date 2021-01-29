@@ -1,0 +1,4 @@
+#! /usr/bin/env bash
+
+history >> $HOME/majstaf/SEZNAMI/hstl_$(date +'%Y%m%d-%H%M%S').txt
+
