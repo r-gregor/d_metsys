@@ -165,3 +165,19 @@ set wildmode=list:longest,full
 
 " ---
 "
+" added 20210622 (MY PRECIOUS!!)
+" comment/uncomment visually selected block
+vnoremap ,pt :s@^@# @<CR>
+vnoremap ,jv :s@^@// @<CR>
+vnoremap ,<space> :s@^.\{1,2\} @@<CR>
+" 
+" html comment/uncomment
+vnoremap ,ht :s/\%V\(.*\)\%V/<!-- \1 -->/<CR>
+vnoremap ,hu :s/\%V<!-- \(.*\) -->\%V/\1/<CR>
+" 
+
+" added 20210629 (d) - enclose visual selection
+" between <code></code> tags
+vnoremap ,cc di<code><CR></code><CR><ESC>kP?<code><CR>:s@.*\(<code>\)@\1@<CR>/</code><CR>:s@.*\(</code>\)@\1@<CR>j
+
+
